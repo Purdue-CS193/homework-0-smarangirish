@@ -2,9 +2,11 @@
 
 ## My favorite things about CS193
 
+```markdown
 - They are really friendly.
 - They are extremely funny.
 - Class is interactive and the magic word is a fun way to get attendance.
+```
   
 ## Welcome to GitHub Pages
 
